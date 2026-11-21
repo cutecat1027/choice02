@@ -11,7 +11,7 @@
         color:var(--text);
        
             max-width:860px;
-            margin:24px auto;
+            margin:12px auto;
             padding:clamp(16px,4vw,38px);
             background:var(--paper);
             
@@ -20,7 +20,7 @@
             display:flex;
             align-items:center;
             justify-content:space-between;
-            gap:15px;
+            gap:10px;
             border-bottom:1px solid #e8dfd8;
             padding-bottom:18px}.top small{letter-spacing:.06em}
                   
@@ -169,12 +169,12 @@
 /* Điện thoại */
 @media (max-width: 600px) {
     .avatar {
-        width: 42px;
-        height: 42px;
+        width: 38px;
+        height: 38px;
     }
 
     .dialogue-row {
-        gap: 8px;
+        gap: 5px;
     }
 
     .character.mc .dialogue-row .dialogue {
