@@ -4,7 +4,7 @@
     --gold:#b99570;
     --text:#343943;
     --paper:#fcfaf9;
-    --font-size:16px}*{box-sizing:border-box}
+    --font-size:14px}*{box-sizing:border-box}
     html{scroll-behavior:smooth}
     body{margin:0;
         background:#f2efed;
@@ -12,7 +12,7 @@
        
             max-width:860px;
             margin:12px auto;
-            padding:clamp(16px,4vw,38px);
+            padding:clamp(14px,4vw,38px);
             background:var(--paper);
             
            
@@ -27,7 +27,7 @@
             
             .narration {
     white-space: pre-line;
-    line-height: 3;
+    line-height: 2.5;
     font-family: Noto Sans, sans-serif;
 }
 
@@ -101,7 +101,7 @@
                 border:1px solid #c6c5c8;
                 background:#fff;
                 color:var(--ink);
-                font:600 .95em noto sans,sans-serif;
+                font:500 .85em noto sans,sans-serif;
                 cursor:pointer;
                 transition:background .2s,border-color .2s}
             .choice:hover,
