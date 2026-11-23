@@ -57,8 +57,8 @@ const STORY = [
         {type:'narration',text:'Cơ thể tôi bị evol của Sylus nhấc bổng lên, chậm rãi đẩy lùi về phía cửa phòng điều khiển.'},
         {type:'narration',text:'Qua khoảng cách ngày một xa, tôi chỉ biết bất lực dõi theo bóng lưng cao lớn của Sylus khi anh từng bước tiến đến gần trụ lõi.'},
         {type:'narration',text:'ẦM!!!'},
-        {type:'narration',text:'Ngay khi vụ nổ bùng phát, cánh cửa phòng điều khiển cũng vừa kịp khép chặt, ngăn cách tôi với những luồng xung kích dữ dội đang cuộn trào bên trong.'}
-
+        {type:'narration',text:'Ngay khi vụ nổ bùng phát, cánh cửa phòng điều khiển cũng vừa kịp khép chặt, ngăn cách tôi với những luồng xung kích dữ dội đang cuộn trào bên trong.'},
+        {type:'narration',text:'(Tiếp tục tới Chương 5 - Into The Night Alone)'}
       ]},
   ]},
   
