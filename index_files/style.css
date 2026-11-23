@@ -1,13 +1,13 @@
 :root{
-    --wine:#9d342f;
+    --wine:#7a1e19;
     --ink:#303943;
     --gold:#b99570;
     --text:#343943;
-    --paper:#fcfaf9;
+    --paper:#000000;
     --font-size:14px}*{box-sizing:border-box}
     html{scroll-behavior:smooth}
     body{margin:0;
-        background:#f2efed;
+        background:#000000;
         color:var(--text);
        
             max-width:860px;
@@ -21,7 +21,7 @@
             align-items:center;
             justify-content:space-between;
             gap:10px;
-            border-bottom:1px solid #e8dfd8;
+            border-bottom:1px solid #222222;
             padding-bottom:18px}.top small{letter-spacing:.06em}
                   
             
